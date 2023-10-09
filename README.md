@@ -1,4 +1,5 @@
 # sales-analytics
+# Ecommerce Dataset Data visualisation with powerbi
 Dataset is about a company's sales made from multiple departmental stores across the world, with details of the sale, discount, profit, product, customer, store, and location data.
 Business problem
 
